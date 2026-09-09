@@ -169,9 +169,9 @@ The models should therefore be used as decision-support tools rather than as sta
 
 ## Project Files
 
-- [Analysis Notebook](notebooks/)
+- [Analysis Notebook](notebooks/employee_attrition_analysis.ipynb)
 - [Project Visualizations](images/)
-- [Power BI Dashboard](power-bi/)
+- [Power BI Dashboard](power-bi/employee_attrition_power_bi_dashboard.pdf)
 - [Project Presentation](presentation/)
 - [Analytical Report](report/)
 - [Data Availability](data/)
