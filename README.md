@@ -173,7 +173,7 @@ The models should therefore be used as decision-support tools rather than as sta
 - [Project Visualizations](images/)
 - [Power BI Dashboard](power-bi/employee_attrition_power_bi_dashboard.pdf)
 - [Project Presentation](presentation/employee_attrition_presentation.pdf)
-- [Analytical Report](report/employee_attrition_analysis_report.pdf)
+- [Analytical Report](report/employee_attrition_report.pdf)
 - [Data Availability](data/)
 
 ## Data Note
