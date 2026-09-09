@@ -79,6 +79,24 @@ Key observations included:
 
 These findings supported the use of multiple workforce characteristics together rather than relying on any single variable to explain employee attrition.
 
+### Employee Attrition Rate
+
+Approximately 27.4% of employees experienced attrition, indicating a meaningful retention concern within the workforce.
+
+![Employee Attrition Rate](images/employee_attrition_rate.png)
+
+### Monthly Income by Attrition
+
+Monthly income varied across employees who stayed and those who left, but the distributions showed substantial overlap. This suggests that income alone does not clearly distinguish employees who will experience attrition.
+
+![Monthly Income by Attrition](images/monthly_income_by_attrition.png)
+
+### Years at Company by Attrition
+
+Years at the company also showed considerable overlap between attrition groups. Although employees who left showed greater variability, tenure alone was not sufficient to clearly identify employees at risk of leaving.
+
+![Years at Company by Attrition](images/years_at_company_by_attrition.png)
+
 ## Feature Engineering
 
 Feature engineering was used to expand the information available to the predictive models.
@@ -114,6 +132,12 @@ AdaBoost achieved approximately:
 - **55% recall**
 
 Its higher precision resulted in more reliable positive predictions and fewer false positives.
+
+### Model Performance Comparison
+
+Compared with the initial baseline model, both ensemble models produced substantial improvements in predictive performance. Random Forest achieved the strongest recall, while AdaBoost achieved the strongest precision.
+
+![Employee Attrition Model Performance Comparison](images/model_performance_comparison.png)
 
 ## Key Findings
 
