@@ -106,7 +106,7 @@ The workflow included:
 - creating compensation-related features such as HighIncome;
 - creating tenure-related variables;
 - selecting workforce characteristics relevant to employee attrition;
-- converting categorical variables such as department, job role, marital status, gender, and business travel using one-hot encoding;
+- converting categorical variables such as department, job role, marital status, and gender using one-hot encoding;
 - preparing the resulting dataset for supervised machine learning.
 
 ## Model Comparison
